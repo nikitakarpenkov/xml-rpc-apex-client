@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>SiteUrlRewriter</members>
-        <members>SiteUrlRewriterTest</members>
+        <members>XmlRpcRequest</members>
+        <members>XmlRpcRequestTest</members>
+        <members>XmlRpcParameter</members>
+        <members>XmlHttpCalloutMockImpl</members>
+        <members>XmlRpcArrayParameter</members>
+        <members>XmlRpcStructParameter</members>
         <name>ApexClass</name>
     </types>
     <version>37.0</version>
